@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class fifthTask {
 
     public static void main(String[] args) {
-        //77777777777777777777777777777777777777777777
+
         Scanner in = new Scanner(System.in);
         System.out.println("Please input number a: ");
         int a = in.nextInt();
